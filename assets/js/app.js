@@ -1,6 +1,6 @@
 // register service worker
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/pwa/assets/js/sw.js', { scope: '/pwa/assets/js/' }).then(function(reg) {
+    navigator.serviceWorker.register('/pwa/assets/js/sw.js', { scope: '/pwa/' }).then(function(reg) {
         if(reg.installing) {
             console.log('Service worker installing');
         } else if(reg.waiting) {
