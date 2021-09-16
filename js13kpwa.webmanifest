@@ -4,22 +4,22 @@
     "description": "Shaman's Quotes PWA",
     "icons": [
         {
-            "src": "icon.svg",
+            "src": "assets/images/icon.svg",
             "sizes": "32x32",
             "type": "image/png"
         },
         {
-            "src": "icon.svg",
+            "src": "assets/images/icon.svg",
             "sizes": "64x64",
             "type": "image/png"
         },
         {
-            "src": "icon.svg",
+            "src": "assets/images/icon.svg",
             "sizes": "128x128",
             "type": "image/png"
         },
         {
-            "src": "icon.svg",
+            "src": "assets/images/icon.svg",
             "sizes": "512x512",
             "type": "image/png"
         }
