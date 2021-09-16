@@ -24,7 +24,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "https://viacheslav-repos.github.io/pwa",
+    "start_url": "https://viacheslav-repos.github.io/pwa/index.html",
     "display": "fullscreen",
     "theme_color": "#B12A34",
     "background_color": "#B12A34"
